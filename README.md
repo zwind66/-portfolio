@@ -4,21 +4,22 @@
 
 ## 💡💡💡Finished work
 
-* [The Link of the deployed application.](https://budgettracker-sz.herokuapp.com/)
+* [The Link of the deployed application.](http://zwind66.github.io/react-portfolio/)
 
-* [The Link of the GitHub repository.](https://github.com/zwind66/Budget-Tracker)
+* [The Link of the GitHub repository.](https://github.com/zwind66/react-portfolio)
 
 ## Description
 
-This project is an application that allows users to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the changes will be reflected when they're brought back online. This application uses IndexDB, Service workers, and Web Manifest for offline functionality and is deployed on Heroku.
+A portfolio site using React.js Single Page Application to showcase the projects that I have done in this bootcamp..
 
-![Img for the application](/public/img/1.png)
+![Img for the application](./src/assets/img/1.png )
+![Img for the application](./src/assets/img/2.png )
 
 ## User Story
 
-    AS AN avid traveler
-    I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-    SO THAT my account balance is accurate when I am traveling      
+    AS AN employer looking for candidates with experience building single-page applications
+    I WANT to view a potential employee's deployed React portfolio of work samples
+    SO THAT I can assess whether they're a good candidate for an open position      
 
 ## Table of Contents
 
