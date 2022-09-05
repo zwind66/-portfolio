@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// import myphoto from '../../assets/img/myphoto.jpg';
 import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function About() {
@@ -15,7 +16,7 @@ function About() {
                 <div className="row">
                     <div className="col-lg-10 mx-auto">
                         <div class="myphoto">
-                            <img src="../../assets/img/myphoto.jpg" alt="my rencent photo" />
+                            <img src={require('../../assets/img/myphoto.jpg')} alt="my rencent photo" height={400} width={300} />
                         </div>
                         <h1>{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr />
