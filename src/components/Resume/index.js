@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
-import Pdf from "../../assets/img/SylviaPrabudy_Resume.pdf";
+import Pdf from "../../assets/img/Resume.pdf";
 
 function Resume() {
     const [pages] = useState([

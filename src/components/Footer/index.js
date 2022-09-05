@@ -13,7 +13,7 @@ function Footer() {
         },
         {
             name: "fab fa-stack-overflow",
-            link: "https://stackoverflow.com/users/13452330/sylvia-prabudy"
+            link: "https://stackoverflow.com/users/19919992/shuai-zuo"
         }
     ]
 
