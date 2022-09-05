@@ -16,7 +16,7 @@ function About() {
                     <div className="col-lg-10 mx-auto">
                         <h1>{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr />
-                        <p className="text-faded mb-5">I am an experienced front end developer with detailed full stack knowledge. I have more than eight years of experience in developing mid- to large-scale websites using the latest core web technologies, in which I maintain expert-level knowledge. I recently earned a Certificate in Full Stack Web Development from the University of Texas at Austin, where I developed skills in MERN Stack and SQL Server.</p>
+                        <p className="text-faded mb-5">Experienced and self-motivated developer with valuable industry experience and coding enthusiasm. Result-oriented and has a proven track record of working with team members to achieve goals. Having extensive experience in build and maintain websites and web applications, using programming, design tools, and languages such as HTML, CSS, Python and JavaScript to meet both client and end-user needs. Having a strong sense of enterprise and responsibility can face any difficulties and challenges.</p>
                        
                         <p className="text-faded mb-5">My strong organizational skills and excellent problem-solving abilities allow me to effectively collaborate on cross-functional teams that include designers, software developers, scrum masters, and project managers. My advanced education, professional background in technology, drive for success, and strong attention to detail are great assets that I own.</p>
                         {/* <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">Check Out My Work</a> */}
