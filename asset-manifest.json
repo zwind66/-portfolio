@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.51d80488.css",
+    "main.js": "/react-portfolio/static/js/main.ea57bee6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/read-the-classic.jpg": "/react-portfolio/static/media/read-the-classic.7e64eaf27d05336dd2d8.jpg",
+    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.897479d24864fb380694.jpg",
+    "static/media/food-festival.jpg": "/react-portfolio/static/media/food-festival.f6a1c42e40f1ae0f6199.jpg",
+    "static/media/what-s-for-tomorrow.jpg": "/react-portfolio/static/media/what-s-for-tomorrow.fc05dd409baf6c578a3e.jpg",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.0fa2ddcb8e4443b1c789.pdf",
+    "static/media/header.jpg": "/react-portfolio/static/media/header.bd33fec1041ebd3cad49.jpg",
+    "static/media/work-day-scheduler.jpg": "/react-portfolio/static/media/work-day-scheduler.34f26eb6e2b488910e40.jpg",
+    "static/media/note-taker.jpg": "/react-portfolio/static/media/note-taker.37fc4a27ed9e21990702.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.51d80488.css.map": "/react-portfolio/static/css/main.51d80488.css.map",
+    "main.ea57bee6.js.map": "/react-portfolio/static/js/main.ea57bee6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51d80488.css",
+    "static/js/main.ea57bee6.js"
+  ]
+}
