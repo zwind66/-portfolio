@@ -99,8 +99,7 @@ function Contact() {
                             </div>
                         </form>
                     
-                        <h4>
-                            Shuai Zuo <br />
+                        <h4 className="text-center">
                             Or simply send me an email at:  <a href="mailto:szuo1@vols.utk.edu"> szuo1@vols.utk.edu</a>
                         </h4>
                     </div>

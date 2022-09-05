@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-## Available Scripts
+## 💡💡💡Finished work
 
-In the project directory, you can run:
+* [The Link of the deployed application.](https://budgettracker-sz.herokuapp.com/)
 
-### `npm start`
+* [The Link of the GitHub repository.](https://github.com/zwind66/Budget-Tracker)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is an application that allows users to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the changes will be reflected when they're brought back online. This application uses IndexDB, Service workers, and Web Manifest for offline functionality and is deployed on Heroku.
 
-### `npm test`
+![Img for the application](/public/img/1.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## User Story
 
-### `npm run build`
+    AS AN avid traveler
+    I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+    SO THAT my account balance is accurate when I am traveling      
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Table of Contents
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Description](#description)
+- [User Story](#user-story)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The user should clone the repository from GitHub and download Node. This application also requires  and inquirer module.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`git clone`   `npm i`   `npm start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Clone this repository to use this application on local machine:
 
-## Learn More
+`git clone`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* To install necessary dependencies, run the following command :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+`npm i`
 
-### Code Splitting
+* The application will be invoked with the following command: This will start localhost server on PORT 3001.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+`npm start`
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
 
-### Making a Progressive Web App
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This application is covered by the MIT license.
 
-### Advanced Configuration
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Shuai Zuo ©2022 All Rights Reserved.
 
-### Deployment
+## Tests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Run `npm test` to run Jest tests when there is an test
 
-### `npm run build` fails to minify
+## Questions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Find me on GitHub: [zwind66](https://github.com/zwind66)
+
+Email me with any questions: szuo1@vols.utk.edu
+
+This README file was generated by [README-generator](<https://github.com/zwind66/README-generator>）
