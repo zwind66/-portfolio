@@ -12,7 +12,7 @@ function Portfolio() {
     const [projects] = useState([
         {
             name: 'tap-card',
-            description: 'Node/React/CSS/Javascript/Apollo/Express/Bcrypt/GraphQI/Mongoose',
+            description: 'Node/React/Apollo/Express/Mongoose',
             link: "https://tap-card-everyone.herokuapp.com/",
             repo: "https://github.com/Israel2800/MERN-Project-3"
         },
